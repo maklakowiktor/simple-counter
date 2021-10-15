@@ -48,7 +48,7 @@ class CounterWidget extends StatefulWidget {
 }
 
 class _CounterWidgetState extends State<CounterWidget> {
-  int _count = 50;
+  int _count = 0;
 
   @override
   Widget build(BuildContext context) {
@@ -60,6 +60,7 @@ class _CounterWidgetState extends State<CounterWidget> {
         borderRadius: BorderRadius.circular(4),
       ),
       child: Row(
+        mainAxisSize: MainAxisSize.max,
         mainAxisAlignment: MainAxisAlignment.center,
         children: <Widget>[
           IconButton(
