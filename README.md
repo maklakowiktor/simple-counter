@@ -1,6 +1,10 @@
 # Simple Counter App on Flutter
 
-![Screenshot](./Screenshot.png)
+### Android
+<img src="./Screenshot-android.png" alt="drawing" width="200"/>
+
+### iOS
+<img src="./Screenshot-ios.png" alt="drawing" width="200"/>
 
 ## Getting Started
 

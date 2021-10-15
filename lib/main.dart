@@ -53,7 +53,7 @@ class _CounterWidgetState extends State<CounterWidget> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      width: 120,
+      width: 125,
       margin: EdgeInsets.all(10.0),
       decoration: BoxDecoration(
         color: Color(0xFFC5CBEA),
