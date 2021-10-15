@@ -1,10 +1,25 @@
 # Simple Counter App on Flutter
 
-### Android
+<table border="0">
+ <tr>
+    <td>Android</td>
+    <td>iOS</td>
+ </tr>
+ <tr>
+    <td>
+      <img src="./Screenshot-android.png" alt="Android" width="200"/>
+    </td>
+    <td>
+      <img src="./Screenshot-ios.png" alt="iPhone" width="200"/>
+    </td>
+ </tr>
+</table>
+
+<!-- ### Android
 <img src="./Screenshot-android.png" alt="drawing" width="200"/>
 
 ### iOS
-<img src="./Screenshot-ios.png" alt="drawing" width="200"/>
+<img src="./Screenshot-ios.png" alt="drawing" width="200"/> -->
 
 ## Getting Started
 
